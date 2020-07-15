@@ -16,3 +16,12 @@ My name is Julio Augusto, I am a technical leader and developer of mobile applic
 - 💻 Working with JavaScript, TypeScript, NodeJS, React Native, ReactJs, Gatsby, Next, GraphQL and VueJs.
 - 🌱 I’m currently learning Java, Python and React.
 - 💬 Ask me about Mobile Development, Web and Backend.
+
+⚙️ I also maintain and assist with some open source projects:
+- [React Native Template Gok Basic](https://github.com/gok-dev/react-native-template-gok-basic) - A simple template for React Native.
+- [React Native Template Gok TypeScript](https://github.com/gok-dev/react-native-template-gok-typescript) - A simple template for React Native with TypeScript.
+- [ESLint Config Gok](https://github.com/gok-dev/eslint-config-gok) - ESLint config plugin for projects to created at gok.
+- [Popupui](https://github.com/RafaelAugustoS/react-native-popup-ui) - A simple and fully customizable React Native component that implements a popup ui.
+
+---
+⭐️ From https://github.com/julioaugustos/
