@@ -19,7 +19,7 @@ My name is Julio Augusto, I am a technical leader and developer of mobile applic
 - 💬 Ask me about Mobile Development, Web and Backend.
 
 ⚙️ I also maintain and assist with some open source projects:
-- [JS Functions Essentials](https://github.com/JulioAugustoS/js-functions-essentials) - This lib has some of the most used functions in every project, be it web, mobile or backend.
+- [JS Essentials Functions](https://github.com/gok-dev/js-essentials-functions) - This lib has some of the most used functions in every project, be it web, mobile or backend.
 - [React Native Template Gok Basic](https://github.com/gok-dev/react-native-template-gok-basic) - A simple template for React Native.
 - [React Native Template Gok TypeScript](https://github.com/gok-dev/react-native-template-gok-typescript) - A simple template for React Native with TypeScript.
 - [ESLint Config Gok](https://github.com/gok-dev/eslint-config-gok) - ESLint config plugin for projects to created at gok.
