@@ -10,12 +10,12 @@
 
 ## Hi there 👋
 
-My name is Julio Augusto, I am a technical leader and developer of mobile applications at Gok Digital, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, GraphQL among many other technologies.
+My name is Julio Augusto, I am a Chief Technology Officer at Starbem, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, GraphQL among many other technologies.
 
 
-- 🔭 I’m currently working on [Gok](https://gok.digital) as a technical leader, a digital innovation company in São Paulo, Brazil.
+- 🔭 I’m currently working on [StarBem](https://starbem.app) as a Chief Technology Officer, a Heath Tech company in São Paulo, Brazil.
 - 💻 Working with JavaScript, TypeScript, NodeJS, React Native, ReactJs, Gatsby, Next, GraphQL and VueJs.
-- 🌱 I’m currently learning Java, Python and React.
+- 🌱 I’m currently learning NativeScript, Python Vue, and React.
 - 💬 Ask me about Mobile Development, Web and Backend.
 
 ⚙️ I also maintain and assist with some open source projects:
