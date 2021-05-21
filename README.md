@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">Julio Augusto</h1>
-  <h4 align="center">CTO and Mobile Developer</>
+  <h4 align="center">Chief Technology Officer at Starbem</>
 </p>
 
 
