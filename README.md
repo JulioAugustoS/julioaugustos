@@ -10,7 +10,7 @@
 
 ## Hi there 👋
 
-My name is Julio Augusto, I am a Chief Technology Officer at Starbem, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, GraphQL among many other technologies.
+My name is Julio Augusto, I am a CTO at Starbem and Co-Founder and COO at iORDER, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, GraphQL among many other technologies.
 
 
 - 🔭 I’m currently working on [StarBem](https://starbem.app) as a Chief Technology Officer, a Heath Tech company in São Paulo, Brazil.
