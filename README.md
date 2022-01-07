@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">Julio Augusto</h1>
-  <h4 align="center">Chief Technology Officer at Starbem</>
+  <h4 align="center">CTO at Starbem | Co-Founder and COO  at iORDER</>
 </p>
 
 
