@@ -1,12 +1,14 @@
-<p>
-  <h1 align="center">Julio Augusto</h1>
-  <h4 align="center">CTO at Starbem | Co-Founder and COO  at iORDER</>
-</p>
+<h4 align="center">
+  
+  [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/JulioAugustoS)](https://www.facebook.com/JulioAugustoSousa/)
+  [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/JulioAugustoS)](https://www.instagram.com/juliosousa.me/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/JulioAugustoS)](https://www.linkedin.com/in/julio-augusto/)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://github.com/JulioAugustoS)](https://twitter.com/Julio_Augusto_S)
+  [![Site Badge](https://img.shields.io/badge/-Site-red?style=for-the-badge&link=https://github.com/JulioAugustoS)](https://julioaugusto.dev)  
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julio-augusto)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Julio_Augusto_S)
-[![Site Badge](https://img.shields.io/badge/-julioaugusto.dev-black?style=flat&logo=Web&logoColor=black)](https://julioaugusto.dev)
+  <h1 align="center">Julio Sousa</h1>
+  <h5 align="center">CTO at Starbem | Co-Founder and COO  at iORDER</h5>
+</h4>
 
 ## Hi there 👋
 
@@ -20,9 +22,7 @@ My name is Julio Augusto, I am a CTO at Starbem and Co-Founder and COO at iORDER
 
 ⚙️ I also maintain and assist with some open source projects:
 - [JS Essentials Functions](https://github.com/gok-dev/js-essentials-functions) - This lib has some of the most used functions in every project, be it web, mobile or backend.
-- [React Native Template Gok Basic](https://github.com/gok-dev/react-native-template-gok-basic) - A simple template for React Native.
-- [React Native Template Gok TypeScript](https://github.com/gok-dev/react-native-template-gok-typescript) - A simple template for React Native with TypeScript.
-- [ESLint Config Gok](https://github.com/gok-dev/eslint-config-gok) - ESLint config plugin for projects to created at gok.
+- [React Native StarSystem](https://github.com/StarBem/react-native-starsystem) - A React Native components library.
 - [Popupui](https://github.com/RafaelAugustoS/react-native-popup-ui) - A simple and fully customizable React Native component that implements a popup ui.
 
 ---
