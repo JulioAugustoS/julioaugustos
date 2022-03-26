@@ -27,7 +27,7 @@ My name is Julio Augusto, I am a CTO at Starbem and Co-Founder and COO at iORDER
 
 ## Dados do Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAugustoS&hide=php&layout=compact=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAugustoS&hide=php,css&layout=compact=true&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioAugustoS&show_icons=true&theme=tokyonight)
 
 ---
