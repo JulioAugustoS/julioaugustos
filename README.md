@@ -6,15 +6,15 @@
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://github.com/JulioAugustoS)](https://twitter.com/Julio_Augusto_S)
 
   <h1 align="center">Julio Sousa</h1>
-  <h5 align="center">Co-Founder and Manager Engineer at Starbem | Co-Founder at iORDER</h5>
+  <h5 align="center">Co-Founder and Engineering Manager at Starbem | Co-Founder at iORDER</h5>
 </h4>
 
 ## Hi there 👋
 
-My name is Julio Augusto, I am a Manager Engineer at Starbem and Co-Founder at iORDER, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, Go-lang GraphQL among many other technologies.
+My name is Julio Augusto, I am a Engineering Manager at Starbem and Co-Founder at iORDER, I am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, NodeJs, Go-lang GraphQL among many other technologies.
 
 
-- 🔭 I’m currently working on [StarBem](https://starbem.app) as a Manager Engineer, a Heath Tech company in São Paulo, Brazil.
+- 🔭 I’m currently working on [StarBem](https://starbem.app) as a Engineering Manager, a Heath Tech company in São Paulo, Brazil.
 - 💻 Working with JavaScript, TypeScript, NodeJS, Go, React Native, ReactJs, Gatsby, Next, GraphQL and VueJs.
 - 🌱 I’m currently learning NativeScript, Python Vue, and React.
 - 💬 Ask me about Mobile Development, Web and Backend.
